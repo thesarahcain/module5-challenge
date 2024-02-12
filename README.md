@@ -27,12 +27,16 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ![image](https://github.com/thesarahcain/module5-challenge/assets/148586543/6e5407b0-7a22-4c7b-92a8-9d42b397ceb5)
 
+### Line Plot
+
+![image](https://github.com/thesarahcain/module5-challenge/assets/148586543/fda37694-3ec9-4d81-a8fb-5be9194f7709)
+
 ### Scatter Plot 
 
 ![image](https://github.com/thesarahcain/module5-challenge/assets/148586543/e714a972-297e-4bdd-8ff1-e841a6d48d54)
+![Uploading image.png…]()
 
 ### Correlation and Regression 
-
 
 ![image](https://github.com/thesarahcain/module5-challenge/assets/148586543/c4c1e503-17a6-441c-bf22-75c80efa2855)
 
